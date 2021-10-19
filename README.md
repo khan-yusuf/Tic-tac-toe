@@ -1,3 +1,14 @@
+# Tic-Tac-Toe Game Interface:
+Created using React.js
+<img width="594" alt="Screen Shot 2021-10-18 at 9 01 50 PM" src="https://user-images.githubusercontent.com/61263058/137831545-2220e59d-2aa7-4445-b2db-ae58e4667fc4.png">
+
+## Also shows history through button functionality
+<img width="607" alt="Screen Shot 2021-10-18 at 9 02 05 PM" src="https://user-images.githubusercontent.com/61263058/137831716-655f5bb5-5ba9-4b07-9b46-a529e2db1225.png">
+Shows state of game during move 2/7
+<img width="623" alt="Screen Shot 2021-10-18 at 9 02 17 PM" src="https://user-images.githubusercontent.com/61263058/137831733-98f11b9a-9f9e-421b-bdb6-3a5b87b4dcee.png">
+Shows state of game during move 5/7
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
